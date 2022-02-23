@@ -1,0 +1,102 @@
+2022-02-22 15:53:40,626 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting ApiTarjetaCreditoApplication using Java 17.0.1 on LAPTOP-RSJLOPS2 with PID 6248 (C:\Users\NEMES\Documents\workspace-spring-tool-suite-4-4.13.0.RELEASE\APITarjetaCredito\target\classes started by NEMES in C:\Users\NEMES\Documents\workspace-spring-tool-suite-4-4.13.0.RELEASE\APITarjetaCredito)
+2022-02-22 15:53:40,629 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.3, Spring v5.3.15
+2022-02-22 15:53:40,629 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-02-22 15:53:46,867 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started ApiTarjetaCreditoApplication in 7.039 seconds (JVM running for 8.734)
+2022-02-22 15:55:08,351 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting ApiTarjetaCreditoApplication using Java 17.0.1 on LAPTOP-RSJLOPS2 with PID 2644 (C:\Users\NEMES\Documents\workspace-spring-tool-suite-4-4.13.0.RELEASE\APITarjetaCredito\target\classes started by NEMES in C:\Users\NEMES\Documents\workspace-spring-tool-suite-4-4.13.0.RELEASE\APITarjetaCredito)
+2022-02-22 15:55:08,352 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.3, Spring v5.3.15
+2022-02-22 15:55:08,353 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-02-22 15:55:14,879 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started ApiTarjetaCreditoApplication in 7.201 seconds (JVM running for 9.28)
+2022-02-22 16:45:02,673 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting ApiTarjetaCreditoApplication using Java 17.0.1 on LAPTOP-RSJLOPS2 with PID 2432 (C:\Users\NEMES\Documents\workspace-spring-tool-suite-4-4.13.0.RELEASE\APITarjetaCredito\target\classes started by NEMES in C:\Users\NEMES\Documents\workspace-spring-tool-suite-4-4.13.0.RELEASE\APITarjetaCredito)
+2022-02-22 16:45:02,675 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.3, Spring v5.3.15
+2022-02-22 16:45:02,675 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-02-22 16:45:09,155 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started ApiTarjetaCreditoApplication in 7.134 seconds (JVM running for 9.056)
+2022-02-22 16:51:56,485 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting ApiTarjetaCreditoApplication using Java 17.0.1 on LAPTOP-RSJLOPS2 with PID 12980 (C:\Users\NEMES\Documents\workspace-spring-tool-suite-4-4.13.0.RELEASE\APITarjetaCredito\target\classes started by NEMES in C:\Users\NEMES\Documents\workspace-spring-tool-suite-4-4.13.0.RELEASE\APITarjetaCredito)
+2022-02-22 16:51:56,487 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.3, Spring v5.3.15
+2022-02-22 16:51:56,487 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-02-22 16:52:02,928 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started ApiTarjetaCreditoApplication in 7.01 seconds (JVM running for 8.939)
+2022-02-22 16:52:14,988 INFO com.ibm.academia.restapi.tarjeta.controlador.TarjetaController [http-nio-9081-exec-3] No hay coincidencia
+2022-02-22 16:57:44,660 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting ApiTarjetaCreditoApplication using Java 17.0.1 on LAPTOP-RSJLOPS2 with PID 9232 (C:\Users\NEMES\Documents\workspace-spring-tool-suite-4-4.13.0.RELEASE\APITarjetaCredito\target\classes started by NEMES in C:\Users\NEMES\Documents\workspace-spring-tool-suite-4-4.13.0.RELEASE\APITarjetaCredito)
+2022-02-22 16:57:44,662 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.3, Spring v5.3.15
+2022-02-22 16:57:44,662 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-02-22 16:57:50,851 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started ApiTarjetaCreditoApplication in 6.826 seconds (JVM running for 8.728)
+2022-02-22 16:58:00,780 INFO com.ibm.academia.restapi.tarjeta.controlador.TarjetaController [http-nio-9081-exec-1] No hay coincidencia
+2022-02-22 16:58:08,730 INFO com.ibm.academia.restapi.tarjeta.controlador.TarjetaController [http-nio-9081-exec-3] No hay coincidencia
+2022-02-22 17:00:53,048 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting ApiTarjetaCreditoApplication using Java 17.0.1 on LAPTOP-RSJLOPS2 with PID 9232 (C:\Users\NEMES\Documents\workspace-spring-tool-suite-4-4.13.0.RELEASE\APITarjetaCredito\target\classes started by NEMES in C:\Users\NEMES\Documents\workspace-spring-tool-suite-4-4.13.0.RELEASE\APITarjetaCredito)
+2022-02-22 17:00:53,049 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.3, Spring v5.3.15
+2022-02-22 17:00:53,049 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-02-22 17:00:54,239 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started ApiTarjetaCreditoApplication in 1.244 seconds (JVM running for 192.116)
+2022-02-22 17:01:34,677 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting ApiTarjetaCreditoApplication using Java 17.0.1 on LAPTOP-RSJLOPS2 with PID 7224 (C:\Users\NEMES\Documents\workspace-spring-tool-suite-4-4.13.0.RELEASE\APITarjetaCredito\target\classes started by NEMES in C:\Users\NEMES\Documents\workspace-spring-tool-suite-4-4.13.0.RELEASE\APITarjetaCredito)
+2022-02-22 17:01:34,682 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.3, Spring v5.3.15
+2022-02-22 17:01:34,682 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-02-22 17:01:40,966 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started ApiTarjetaCreditoApplication in 6.956 seconds (JVM running for 8.862)
+2022-02-22 17:01:46,607 INFO com.ibm.academia.restapi.tarjeta.controlador.TarjetaController [http-nio-9081-exec-1] No hay coincidencia
+2022-02-22 17:02:29,128 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting ApiTarjetaCreditoApplication using Java 17.0.1 on LAPTOP-RSJLOPS2 with PID 16988 (C:\Users\NEMES\Documents\workspace-spring-tool-suite-4-4.13.0.RELEASE\APITarjetaCredito\target\classes started by NEMES in C:\Users\NEMES\Documents\workspace-spring-tool-suite-4-4.13.0.RELEASE\APITarjetaCredito)
+2022-02-22 17:02:29,129 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.3, Spring v5.3.15
+2022-02-22 17:02:29,130 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-02-22 17:02:35,218 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started ApiTarjetaCreditoApplication in 6.828 seconds (JVM running for 8.698)
+2022-02-22 17:02:40,190 INFO com.ibm.academia.restapi.tarjeta.controlador.TarjetaController [http-nio-9081-exec-1] No hay coincidencia
+2022-02-22 17:04:23,419 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting ApiTarjetaCreditoApplication using Java 17.0.1 on LAPTOP-RSJLOPS2 with PID 16988 (C:\Users\NEMES\Documents\workspace-spring-tool-suite-4-4.13.0.RELEASE\APITarjetaCredito\target\classes started by NEMES in C:\Users\NEMES\Documents\workspace-spring-tool-suite-4-4.13.0.RELEASE\APITarjetaCredito)
+2022-02-22 17:04:23,419 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.3, Spring v5.3.15
+2022-02-22 17:04:23,419 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-02-22 17:04:24,695 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started ApiTarjetaCreditoApplication in 1.324 seconds (JVM running for 118.175)
+2022-02-22 17:10:26,236 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting ApiTarjetaCreditoApplication using Java 17.0.1 on LAPTOP-RSJLOPS2 with PID 10080 (C:\Users\NEMES\Documents\workspace-spring-tool-suite-4-4.13.0.RELEASE\APITarjetaCredito\target\classes started by NEMES in C:\Users\NEMES\Documents\workspace-spring-tool-suite-4-4.13.0.RELEASE\APITarjetaCredito)
+2022-02-22 17:10:26,238 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.6.3, Spring v5.3.15
+2022-02-22 17:10:26,238 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-02-22 17:10:32,909 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started ApiTarjetaCreditoApplication in 7.446 seconds (JVM running for 9.029)
+2022-02-22 17:10:37,971 INFO com.ibm.academia.restapi.tarjeta.controlador.TarjetaController [http-nio-9081-exec-1] Sin coincidencia
+2022-02-22 17:10:44,474 INFO com.ibm.academia.restapi.tarjeta.controlador.TarjetaController [http-nio-9081-exec-3] Sin coincidencia
+2022-02-22 17:10:49,951 INFO com.ibm.academia.restapi.tarjeta.controlador.TarjetaController [http-nio-9081-exec-4] Sin coincidencia
+2022-02-22 17:10:54,620 INFO com.ibm.academia.restapi.tarjeta.controlador.TarjetaController [http-nio-9081-exec-5] Sin coincidencia
+2022-02-22 17:10:59,460 INFO com.ibm.academia.restapi.tarjeta.controlador.TarjetaController [http-nio-9081-exec-6] Sin coincidencia
+2022-02-22 17:16:53,502 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting ApiTarjetaCreditoApplication using Java 17.0.1 on LAPTOP-RSJLOPS2 with PID 2724 (C:\Users\NEMES\Documents\workspace-spring-tool-suite-4-4.13.0.RELEASE\APITarjetaCredito\target\classes started by NEMES in C:\Users\NEMES\Documents\workspace-spring-tool-suite-4-4.13.0.RELEASE\APITarjetaCredito)
+2022-02-22 17:16:53,505 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.5.9, Spring v5.3.15
+2022-02-22 17:16:53,505 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-02-22 17:17:01,523 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started ApiTarjetaCreditoApplication in 8.785 seconds (JVM running for 10.607)
+2022-02-22 17:17:11,512 INFO com.ibm.academia.restapi.tarjeta.controlador.TarjetaController [http-nio-9081-exec-2] Sin coincidencia
+2022-02-22 17:17:17,078 INFO com.ibm.academia.restapi.tarjeta.controlador.TarjetaController [http-nio-9081-exec-3] Sin coincidencia
+2022-02-22 17:18:07,449 INFO com.ibm.academia.restapi.tarjeta.controlador.TarjetaController [http-nio-9081-exec-4] Sin coincidencia
+2022-02-22 17:26:48,043 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting ApiTarjetaCreditoApplication using Java 17.0.1 on LAPTOP-RSJLOPS2 with PID 15908 (C:\Users\NEMES\Documents\workspace-spring-tool-suite-4-4.13.0.RELEASE\APITarjetaCredito\target\classes started by NEMES in C:\Users\NEMES\Documents\workspace-spring-tool-suite-4-4.13.0.RELEASE\APITarjetaCredito)
+2022-02-22 17:26:48,050 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.5.9, Spring v5.3.15
+2022-02-22 17:26:48,050 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-02-22 17:26:55,727 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started ApiTarjetaCreditoApplication in 8.403 seconds (JVM running for 10.201)
+2022-02-22 17:28:04,634 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting ApiTarjetaCreditoApplication using Java 17.0.1 on LAPTOP-RSJLOPS2 with PID 15908 (C:\Users\NEMES\Documents\workspace-spring-tool-suite-4-4.13.0.RELEASE\APITarjetaCredito\target\classes started by NEMES in C:\Users\NEMES\Documents\workspace-spring-tool-suite-4-4.13.0.RELEASE\APITarjetaCredito)
+2022-02-22 17:28:04,635 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.5.9, Spring v5.3.15
+2022-02-22 17:28:04,635 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-02-22 17:28:06,248 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started ApiTarjetaCreditoApplication in 1.69 seconds (JVM running for 80.722)
+2022-02-22 17:28:12,741 INFO com.ibm.academia.restapi.tarjeta.controlador.TarjetaController [http-nio-9081-exec-2] Sin coincidencia
+2022-02-22 17:29:35,221 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting ApiTarjetaCreditoApplication using Java 17.0.1 on LAPTOP-RSJLOPS2 with PID 7816 (C:\Users\NEMES\Documents\workspace-spring-tool-suite-4-4.13.0.RELEASE\APITarjetaCredito\target\classes started by NEMES in C:\Users\NEMES\Documents\workspace-spring-tool-suite-4-4.13.0.RELEASE\APITarjetaCredito)
+2022-02-22 17:29:35,223 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.5.9, Spring v5.3.15
+2022-02-22 17:29:35,223 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-02-22 17:29:42,773 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started ApiTarjetaCreditoApplication in 8.348 seconds (JVM running for 10.247)
+2022-02-22 17:36:40,514 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting ApiTarjetaCreditoApplication using Java 17.0.1 on LAPTOP-RSJLOPS2 with PID 3880 (C:\Users\NEMES\Documents\workspace-spring-tool-suite-4-4.13.0.RELEASE\APITarjetaCredito\target\classes started by NEMES in C:\Users\NEMES\Documents\workspace-spring-tool-suite-4-4.13.0.RELEASE\APITarjetaCredito)
+2022-02-22 17:36:40,515 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.5.9, Spring v5.3.15
+2022-02-22 17:36:40,516 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-02-22 17:36:48,110 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started ApiTarjetaCreditoApplication in 8.339 seconds (JVM running for 10.299)
+2022-02-22 17:36:59,783 INFO com.ibm.academia.restapi.tarjeta.controlador.TarjetaController [http-nio-9081-exec-1] Sin coincidencia
+2022-02-22 17:37:08,314 INFO com.ibm.academia.restapi.tarjeta.controlador.TarjetaController [http-nio-9081-exec-3] Sin coincidencia
+2022-02-22 17:37:14,215 INFO com.ibm.academia.restapi.tarjeta.controlador.TarjetaController [http-nio-9081-exec-4] Sin coincidencia
+2022-02-22 17:37:29,876 INFO com.ibm.academia.restapi.tarjeta.controlador.TarjetaController [http-nio-9081-exec-5] Sin coincidencia
+2022-02-22 17:43:12,332 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting ApiTarjetaCreditoApplication using Java 17.0.1 on LAPTOP-RSJLOPS2 with PID 9064 (C:\Users\NEMES\Documents\workspace-spring-tool-suite-4-4.13.0.RELEASE\APITarjetaCredito\target\classes started by NEMES in C:\Users\NEMES\Documents\workspace-spring-tool-suite-4-4.13.0.RELEASE\APITarjetaCredito)
+2022-02-22 17:43:12,334 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.5.9, Spring v5.3.15
+2022-02-22 17:43:12,334 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-02-22 17:43:19,705 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started ApiTarjetaCreditoApplication in 8.152 seconds (JVM running for 10.113)
+2022-02-22 17:46:05,165 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting ApiTarjetaCreditoApplication using Java 17.0.1 on LAPTOP-RSJLOPS2 with PID 15840 (C:\Users\NEMES\Documents\workspace-spring-tool-suite-4-4.13.0.RELEASE\APITarjetaCredito\target\classes started by NEMES in C:\Users\NEMES\Documents\workspace-spring-tool-suite-4-4.13.0.RELEASE\APITarjetaCredito)
+2022-02-22 17:46:05,167 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.5.9, Spring v5.3.15
+2022-02-22 17:46:05,167 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-02-22 17:46:12,251 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started ApiTarjetaCreditoApplication in 7.875 seconds (JVM running for 9.991)
+2022-02-22 17:47:00,216 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting ApiTarjetaCreditoApplication using Java 17.0.1 on LAPTOP-RSJLOPS2 with PID 7072 (C:\Users\NEMES\Documents\workspace-spring-tool-suite-4-4.13.0.RELEASE\APITarjetaCredito\target\classes started by NEMES in C:\Users\NEMES\Documents\workspace-spring-tool-suite-4-4.13.0.RELEASE\APITarjetaCredito)
+2022-02-22 17:47:00,217 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.5.9, Spring v5.3.15
+2022-02-22 17:47:00,217 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-02-22 17:47:08,054 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started ApiTarjetaCreditoApplication in 8.469 seconds (JVM running for 10.293)
+2022-02-22 17:53:28,784 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting ApiTarjetaCreditoApplication using Java 17.0.1 on LAPTOP-RSJLOPS2 with PID 6104 (C:\Users\NEMES\Documents\workspace-spring-tool-suite-4-4.13.0.RELEASE\APITarjetaCredito\target\classes started by NEMES in C:\Users\NEMES\Documents\workspace-spring-tool-suite-4-4.13.0.RELEASE\APITarjetaCredito)
+2022-02-22 17:53:28,786 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.5.9, Spring v5.3.15
+2022-02-22 17:53:28,787 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-02-22 17:53:36,062 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started ApiTarjetaCreditoApplication in 8.056 seconds (JVM running for 10.162)
+2022-02-22 17:55:39,667 INFO com.ibm.academia.restapi.tarjeta.controlador.TarjetaController [http-nio-9081-exec-8] Sin coincidencia
+2022-02-22 17:56:19,177 INFO com.ibm.academia.restapi.tarjeta.controlador.TarjetaController [http-nio-9081-exec-10] Sin coincidencia
+2022-02-22 17:56:29,530 INFO com.ibm.academia.restapi.tarjeta.controlador.TarjetaController [http-nio-9081-exec-1] Sin coincidencia
+2022-02-22 18:12:24,739 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Starting ApiTarjetaCreditoApplication using Java 17.0.1 on LAPTOP-RSJLOPS2 with PID 8928 (C:\Users\NEMES\Documents\workspace-spring-tool-suite-4-4.13.0.RELEASE\APITarjetaCredito\target\classes started by NEMES in C:\Users\NEMES\Documents\workspace-spring-tool-suite-4-4.13.0.RELEASE\APITarjetaCredito)
+2022-02-22 18:12:24,740 DEBUG org.springframework.boot.StartupInfoLogger [restartedMain] Running with Spring Boot v2.5.9, Spring v5.3.15
+2022-02-22 18:12:24,741 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2022-02-22 18:12:32,041 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started ApiTarjetaCreditoApplication in 8.064 seconds (JVM running for 10.355)
+2022-02-22 18:12:54,107 INFO com.ibm.academia.restapi.tarjeta.controlador.TarjetaController [http-nio-9081-exec-4] Sin coincidencia
