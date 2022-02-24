@@ -23,3 +23,5 @@ Esta aplicación será la responsable de obtener el tipo de tarjeta de crédito 
 # Ejecucion
 
 1. Se debe crear una BD llamada tarjeta en Postgresql
+
+2. En postman con el endpoint [http://localhost:9081/api/v1/tarjeta/restapi/tarjetas/lista](http://localhost:9081/api/v1/tarjeta/restapi/tarjetas/lista/) se accede a la lista de tarjetas
