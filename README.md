@@ -19,3 +19,7 @@ Esta aplicación será la responsable de obtener el tipo de tarjeta de crédito 
   * Edad (Age)
 * OutPut
   * Tipo de tarjeta
+
+# Ejecucion
+
+1 Se debe crear una BD llamada tarjeta en Postgresql
