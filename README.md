@@ -14,8 +14,8 @@ Componentes Importantes:
 Esta aplicación será la responsable de obtener el tipo de tarjeta de crédito más adecuado para el cliente basado en su perfil. Los datos de perfil que el usuario capturará son los siguientes:
 
 * Input:
-  • Preferencias (Your passion) : compras, viajes, ayuda, negocio, deportes, estilo
-  • Salario (Monthly salary)
-  • Edad (Age)
+  * Preferencias (Your passion) : compras, viajes, ayuda, negocio, deportes, estilo
+  * Salario (Monthly salary)
+  * Edad (Age)
 * OutPut
-  • Tipo de tarjeta
+  * Tipo de tarjeta
