@@ -7,6 +7,7 @@ import java.util.stream.Collectors;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -34,26 +35,9 @@ public class TarjetaController {
 	private final static Logger logger = LoggerFactory.getLogger(TarjetaController.class);
 	
 	@Autowired
+	@Qualifier("tarjetaDAOImpl")
 	private TarjetaDAO tarjetaDAO;
-	
-	/**
-	 * Endpoint para ingresar tarjetas
-	 * @param tarjeta parametro para crear una tarjeta
-	 * @return un objeto de tipo tarjeta
-	 * @author erickhs 18-02-2022
-	 */
-	
-	@ApiOperation(value = "Ingresar nuevas tarjetas")
-	@ApiResponses({
-		@ApiResponse(code=200, message="Endpoint ejecutado satisfactoriamente"),
-		@ApiResponse(code=404, message="No hay elementos en la Base de datos")
-	})
-	@PostMapping("/tarjeta")
-	public ResponseEntity<?> crearTarjeta(@RequestBody Tarjeta tarjeta){
-		Tarjeta tarjetaGuardada = tarjetaDAO.guardar(tarjeta);
-		return new ResponseEntity<Tarjeta>(tarjetaGuardada, HttpStatus.CREATED);
-	}
-	
+
 	
 	/**
 	 * Endpoint para consultar todas las tarjetas
@@ -68,7 +52,7 @@ public class TarjetaController {
 	})
 	@GetMapping("/tarjetas/lista")
 	public ResponseEntity<?> obtenerTodas(){
-		List<Tarjeta> tarjetas = (List<Tarjeta>) tarjetaDAO.buscarTodos();
+		List<Tarjeta> tarjetas = tarjetaDAO.list();
 		
 		if(tarjetas.isEmpty())
 			throw new NotFoundException("No existen tarjetas");
@@ -101,11 +85,8 @@ public class TarjetaController {
 		
 		List<String> tarjetasLista = tarjetas.stream().map(x -> x.getTarjetaCredito()).collect(Collectors.toList());
 		logger.info("Sin coincidencia");
-		/*
-		if(tarjetasLista.isEmpty())
-			throw new NotFoundException("No hay coincidencia");
-		*/
-		//return new ResponseEntity<List<String>>(tarjetasLista,HttpStatus.OK);
+		
+		
 		return tarjetasLista.isEmpty()? new ResponseEntity<String>("No hay coincidencias", HttpStatus.OK):ResponseEntity.ok(tarjetasLista);
 		
 	}
