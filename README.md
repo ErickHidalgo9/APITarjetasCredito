@@ -22,4 +22,4 @@ Esta aplicación será la responsable de obtener el tipo de tarjeta de crédito 
 
 # Ejecucion
 
-1 Se debe crear una BD llamada tarjeta en Postgresql
+1. Se debe crear una BD llamada tarjeta en Postgresql
